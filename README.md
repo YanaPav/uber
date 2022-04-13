@@ -1,2 +1,2 @@
 # uber
-Аirst repository created during self-study development
+First repository created during self-study development
