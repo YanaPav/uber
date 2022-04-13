@@ -1,2 +1,2 @@
 # uber
-Учебный репозиторий
+Аirst repository created during self-study development
